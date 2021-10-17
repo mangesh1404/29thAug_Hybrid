@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 22.548 s <<< FAILURE! - in TestSuite
+com.tests.LoginTest.loginTest  Time elapsed: 2.143 s  <<< FAILURE!
+java.lang.AssertionError: expected [JavaByKiran | dashboard] but found [JavaByKiran | Dashboard]
+	at com.tests.LoginTest.loginTest(LoginTest.java:33)
+
